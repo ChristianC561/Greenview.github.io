@@ -1160,8 +1160,3 @@ h1, h2, h3, h4, h5,
 .slide-one-item .owl-nav .owl-next {
   right: 20px; }
   
-@media only screen and (max-width: 992px){
-.top-header {
-position:relative;
-}
-}

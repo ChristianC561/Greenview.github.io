@@ -1159,4 +1159,11 @@ h1, h2, h3, h4, h5,
 
 .slide-one-item .owl-nav .owl-next {
   right: 20px; }
-  
+
+@media (max-width:  767px) {
+.x-content-band {
+  height: auto !important;
+  background-size: contain !important;             
+  background-position: top center !important
+}
+}  
